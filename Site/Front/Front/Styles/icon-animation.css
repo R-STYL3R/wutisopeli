@@ -1,0 +1,9 @@
+
+.navbar-brand {
+    transition: transform 1s;  /* Это будет управлять плавностью вращения */
+    transform-origin: center;  /* Чтобы убедиться, что вращение происходит вокруг центра изображения */
+}
+
+.navbar-brand:hover {
+    transform: rotate(360deg);  /* При наведении будет вращаться на 360 градусов */
+}

@@ -1,0 +1,723 @@
+
+.macbook-air {
+  background-color: #1f1e25;
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.macbook-air .div {
+  background-color: #1f1e25;
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.macbook-air .head {
+  position: absolute;
+  width: 100%;
+  height: 78px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .overlap {
+  position: absolute;
+  width: 100%;
+  height: 45px;
+  top: 0;
+  left: 0;
+  background-color: #2c2b32;
+}
+
+.macbook-air .circles {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 12px;
+  position: absolute;
+  top: 16px;
+  left: 21px;
+}
+
+.macbook-air .ellipse {
+  background-color: #ff6b6b;
+  position: relative;
+  width: 12px;
+  height: 12px;
+  border-radius: 6px;
+}
+
+.macbook-air .ellipse-2 {
+  background-color: #ffe871;
+  position: relative;
+  width: 12px;
+  height: 12px;
+  border-radius: 6px;
+}
+
+.macbook-air .ellipse-3 {
+  background-color: #99b84a;
+  position: relative;
+  width: 12px;
+  height: 12px;
+  border-radius: 6px;
+}
+
+.macbook-air .text-wrapper {
+  position: absolute;
+  top: 15px;
+  left: 99px;
+  font-family: "Cascadia Code-Regular", Helvetica;
+  font-weight: 400;
+  color: #686868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .overlap-group {
+  position: absolute;
+  width: 867px;
+  height: 32px;
+  top: 46px;
+  left: 0;
+}
+
+.macbook-air .lines {
+  position: absolute;
+  width: 850px;
+  height: 30px;
+  top: 2px;
+  left: 0;
+}
+
+.macbook-air .line {
+  position: absolute;
+  width: 3px;
+  height: 30px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .img {
+  position: absolute;
+  width: 3px;
+  height: 30px;
+  top: 0;
+  left: 170px;
+}
+
+.macbook-air .line-2 {
+  position: absolute;
+  width: 3px;
+  height: 30px;
+  top: 0;
+  left: 340px;
+}
+
+.macbook-air .line-3 {
+  position: absolute;
+  width: 3px;
+  height: 30px;
+  top: 0;
+  left: 510px;
+}
+
+.macbook-air .line-4 {
+  position: absolute;
+  width: 3px;
+  height: 30px;
+  top: 0;
+  left: 680px;
+}
+
+.macbook-air .line-5 {
+  position: absolute;
+  width: 3px;
+  height: 30px;
+  top: 0;
+  left: 850px;
+}
+
+.macbook-air .about {
+  position: absolute;
+  width: 172px;
+  height: 30px;
+  top: 2px;
+  left: 176px;
+}
+
+.macbook-air .div-wrapper {
+  position: relative;
+  width: 170px;
+  height: 30px;
+  background-color: #2c2b32;
+}
+
+.macbook-air .text-wrapper-2 {
+  position: absolute;
+  top: 8px;
+  left: 53px;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .skills {
+  position: absolute;
+  width: 172px;
+  height: 30px;
+  top: 2px;
+  left: 349px;
+}
+
+.macbook-air .text-wrapper-3 {
+  position: absolute;
+  top: 8px;
+  left: 60px;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .projects {
+  position: absolute;
+  width: 172px;
+  height: 30px;
+  top: 2px;
+  left: 522px;
+}
+
+.macbook-air .contacts {
+  position: absolute;
+  width: 172px;
+  height: 30px;
+  top: 2px;
+  left: 695px;
+}
+
+.macbook-air .hello {
+  position: absolute;
+  width: 172px;
+  height: 32px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .overlap-2 {
+  position: absolute;
+  width: 170px;
+  height: 30px;
+  top: 2px;
+  left: 3px;
+  background-color: #2c2b32;
+}
+
+.macbook-air .text-wrapper-4 {
+  position: relative;
+  top: 8px;
+  left: 63px;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #f0b65a;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .line-6 {
+  position: absolute;
+  width: 170px;
+  height: 3px;
+  top: -2px;
+  left: 3px;
+}
+
+.macbook-air .rectangle {
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  top: 48px;
+  left: 868px;
+  background-color: #2c2b32;
+}
+
+.macbook-air .main {
+  position: relative;
+  height: 470px;
+  top: 25%;
+  left: 20%;
+  overflow-x: clip
+}
+
+.macbook-air .hello-2 {
+  position: absolute;
+  width: 331px;
+  height: 470px;
+  top: 0;
+  left: 31px;
+}
+
+.macbook-air .NUMBER {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  background: linear-gradient(180deg, rgba(104.32, 104.32, 104.32, 0) 16.98%, rgb(104.32, 104.32, 104.32) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Cascadia Code-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  font-family: "Cascadia Code-Regular", Helvetica;
+  font-weight: 400;
+  color: #686868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  background: linear-gradient(180deg, rgb(104.32, 104.32, 104.32) 0%, rgba(104.32, 104.32, 104.32, 0) 78.12%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Cascadia Code-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .hello-3 {
+  position: absolute;
+  top: 144px;
+  left: 118px;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #f0b65a;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .lines-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 30px;
+  position: absolute;
+  top: 35px;
+  left: 30px;
+}
+
+.macbook-air .line-7 {
+  position: relative;
+  width: 1px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.macbook-air .line-8 {
+  position: relative;
+  width: 1px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.macbook-air .line-9 {
+  position: relative;
+  width: 1px;
+  height: 200px;
+  margin-right: -1px;
+  object-fit: cover;
+}
+
+.macbook-air .hello-4 {
+  position: absolute;
+  width: 225px;
+  height: 158px;
+  top: 168px;
+  left: 118px;
+}
+
+.macbook-air .hello-my-name-is {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .span {
+  color: #ffffff;
+}
+
+.macbook-air .text-wrapper-8 {
+  color: #99b84a;
+}
+
+.macbook-air .i-am-a-web-developer {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-9 {
+  color: #895197;
+}
+
+.macbook-air .and-creator-of-mars {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-10 {
+  color: #1e95e7;
+}
+
+.macbook-air .i-have-more-than {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .using-modern {
+  position: absolute;
+  top: 96px;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-11 {
+  color: #ff6b6b;
+}
+
+.macbook-air .and-design {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-12 {
+  position: absolute;
+  top: 144px;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .name {
+  position: absolute;
+  width: 618px;
+  height: 424px;
+  top: 23px;
+  left: 469px;
+}
+
+.macbook-air .overlap-3 {
+  position: relative;
+  width: 620px;
+  height: 424px;
+}
+
+.macbook-air .KHANIL-KIREEV {
+  position: absolute;
+  width: 620px;
+  height: 291px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .overlap-group-2 {
+  position: relative;
+  width: 616px;
+  height: 291px;
+}
+
+.macbook-air .KHANIL {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #99b84a;
+  font-size: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .KIREEV {
+  position: absolute;
+  top: 117px;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #99b84a;
+  font-size: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .i-help-you {
+  position: absolute;
+  top: 278px;
+  left: 6px;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .letter {
+  position: absolute;
+  width: 49px;
+  height: 74px;
+  top: 350px;
+  left: 6px;
+  overflow: hidden;
+}
+
+.macbook-air .overlap-4 {
+  position: relative;
+  width: 263px;
+  height: 74px;
+  top: -1px;
+}
+
+.macbook-air .quickly {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #895197;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .rectangle-2 {
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  top: 8px;
+  left: 39px;
+  background-color: #895197;
+}
+
+.macbook-air .overlap-5 {
+  position: fixed;
+  width: 100%;
+
+  bottom: 0;
+  left: 0;
+  margin-bottom: 0;
+}
+
+.macbook-air .bottom {
+  position: relative;
+  width: 100%;
+
+  top: 0;
+  left: 0;
+  margin-bottom: 0;
+}
+
+.macbook-air .overlap-6 {
+
+  width: 100%;
+  height: 45px;
+  background-color: #2c2b32;
+  margin-bottom: 0;
+}
+
+.macbook-air .line-10 {
+  position: absolute;
+  width: 3px;
+  height: 45px;
+  top: 0;
+  left: 135px;
+}
+
+.macbook-air .line-11 {
+  position: absolute;
+  width: 3px;
+  height: 45px;
+  top: 0;
+  left: 188px;
+}
+
+.macbook-air .line-12 {
+  position: absolute;
+  width: 3px;
+  height: 45px;
+  top: 0;
+  left: 240px;
+}
+
+.macbook-air .line-13 {
+  position: absolute;
+  width: 3px;
+  height: 45px;
+  top: 0;
+  left: 293px;
+}
+
+.macbook-air .line-14 {
+  position: absolute;
+  width: 3px;
+  height: 45px;
+  top: 0;
+  left: 346px;
+}
+
+.macbook-air .text-wrapper-13 {
+  position: absolute;
+  top: 16px;
+  left: 21px;
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #686868;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .basil-telegram {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 11px;
+  left: 149px;
+}
+
+.macbook-air .uil-instagram {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 11px;
+  left: 202px;
+}
+
+.macbook-air .cib-gmail {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 12px;
+  left: 258px;
+}
+
+.macbook-air .text-wrapper-14 {
+  position: absolute;
+  top: 8px;
+  left: 308px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #686868;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.inner-hook{  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;}
+.now-page{
+  font-family: "Cascadia Code-Bold", Helvetica;
+  font-weight: 700;
+  color: #f0b65a;
+  font-size: 12px;
+  letter-spacing: 0;
+}
